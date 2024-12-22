@@ -28,6 +28,7 @@ mnist_images/
 # VSCode
 .vscode/
 *.code-workspace
+.DS_Store
 
 # 虚拟环境
 venv/
